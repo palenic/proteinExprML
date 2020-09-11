@@ -11,3 +11,6 @@ treatment. The goal is to classify mice into 8 different classes, based on prote
 
 ## References
 Higuera, Clara, Katheleen J. Gardiner, and Krzysztof J. Cios. “Self-organizing feature maps identify proteins critical to learning in a mouse model of down syndrome.” PloS one 10.6 (2015).
+
+## Notes
+If the notebook is not rendering: https://nbviewer.jupyter.org/github/palenic/proteinExprML/blob/master/ML%202020%20homework.ipynb
