@@ -8,3 +8,6 @@ treatment. The goal is to classify mice into 8 different classes, based on prote
  - linear regression: OLS, ridge, lasso, k-nearest regression.  
  
  The notebook features an exploratory analysis and tests different algorithms, using the `seaborn` library for meaningful representations.
+
+## References
+Higuera, Clara, Katheleen J. Gardiner, and Krzysztof J. Cios. “Self-organizing feature maps identify proteins critical to learning in a mouse model of down syndrome.” PloS one 10.6 (2015).
